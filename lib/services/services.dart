@@ -1,3 +1,5 @@
+// ignore_for_file: avoid_classes_with_only_static_members
+
 import 'package:ai_bot/constants/constants.dart';
 import 'package:ai_bot/widgets/models_drop_down.dart';
 import 'package:flutter/material.dart';

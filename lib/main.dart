@@ -1,6 +1,5 @@
 import 'dart:io';
 
-import 'package:ai_bot/providers/chat_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -8,6 +7,7 @@ import 'package:provider/provider.dart';
 
 import 'package:ai_bot/constants/constants.dart';
 import 'package:ai_bot/screens/chat_screen.dart';
+import 'package:ai_bot/providers/chat_provider.dart';
 import 'package:ai_bot/providers/model_provider.dart';
 
 void main() async {
